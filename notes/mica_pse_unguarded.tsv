@@ -1,0 +1,81 @@
+/mnt/gb/system_ext_a/bin/desktop-lowbatteryalert	8	ldaddl:1 ldaddal:7 
+/mnt/gb/system_ext_a/bin/stagefright	8	ldaprb:1 ldaddl:1 ldaddal:6 
+/mnt/gb/system_ext_a/bin/storageproxyd.system	37	ldaprb:5 ldadd:10 ldaddal:14 ldapr:8 
+/mnt/gb/system_ext_a/lib64/libGPMTEEC_system.qti.so	18	ldaddal:16 ldadd:2 
+/mnt/gb/system_ext_a/lib64/libGPQTEEC_system.qti.so	2	ldaprb:2 
+/mnt/gb/system_ext_a/lib64/libQSEEComAPI_system.so	45	ldaprb:2 ldadd:18 ldapr:1 ldaddal:24 
+/mnt/gb/system_ext_a/lib64/libaudiohalvendorextn.so	5	ldadd:1 ldapr:1 ldaddal:3 
+/mnt/gb/system_ext_a/lib64/libQTEEConnector_system.so	28	ldaprb:4 ldaddal:20 ldadd:4 
+/mnt/gb/system_ext_a/lib64/lib-imsvt.so	5	ldaprb:2 ldadd:1 ldapr:1 ldaddal:1 
+/mnt/gb/system_ext_a/lib64/libgralloc.system.qti.so	1	ldaprb:1 
+/mnt/gb/system_ext_a/lib64/libQmsNtnProto.so	24	ldaprb:24 
+/mnt/gb/system_ext_a/lib64/libdisplayconfig.system.qti.so	16	ldaddal:11 ldadd:5 
+/mnt/gb/system_ext_a/lib64/libmediasp_jni.so	3	ldaddal:3 
+/mnt/gb/system_ext_a/lib64/libmink-sock-native-api.so	2	ldaddal:2 
+/mnt/gb/system_ext_a/lib64/libminksocket_system.so	19	ldaddal:18 ldsetal:1 
+/mnt/gb/system_ext_a/lib64/libminkipcbinder_system.so	117	ldaprb:2 ldapr:2 ldadd:15 ldaddal:93 ldsetal:5 
+/mnt/gb/system_ext_a/lib64/libdiag_system.so	10	ldapr:1 ldadd:2 ldaddal:7 
+/mnt/gb/system_ext_a/lib64/liblayerext.qti.so	6	ldaprb:1 ldadd:1 ldaddal:4 
+/mnt/gb/system_ext_a/lib64/libdiag_system.qti.so	10	ldapr:1 ldadd:2 ldaddal:7 
+/mnt/gb/system_ext_a/lib64/libcomposerextn.qti.so	122	ldaprb:33 ldaddl:10 ldapr:2 ldaddal:58 ldadd:19 
+/mnt/gb/system_ext_a/lib64/libupdateprof.qti.so	9	ldaprb:2 ldadd:2 ldaddal:5 
+/mnt/gb/system_ext_a/lib64/libsystemhelper_jni.so	28	ldaddl:10 ldadd:5 ldapr:2 ldaddal:11 
+/mnt/gb/system_ext_a/lib64/libtrigger-handler.so	9	ldaprb:2 ldadd:2 ldaddal:5 
+/mnt/gb/system_ext_a/lib64/libqms_ntnsatellite_sdk.so	75	ldaprb:6 ldadd:11 ldapr:8 ldaddal:50 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ImsRtpService-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.data.dmapconsent-V2-ndk.so	51	ldaprb:6 ldaddal:23 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.data.dmapconsent-V1-ndk.so	49	ldaprb:6 ldaddal:21 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ImsRtpService-V2-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.data.factoryservice-V1-ndk.so	52	ldaprb:27 ldaddal:13 ldapr:5 ldadd:7 
+/mnt/gb/system_ext_a/lib64/vendor.qti.data.factoryservice-V2-ndk.so	52	ldaprb:27 ldaddal:13 ldapr:5 ldadd:7 
+/mnt/gb/system_ext_a/lib64/vendor.qti.data.mwqemaidlservice-V1-ndk.so	35	ldaprb:4 ldaddal:14 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.cacertaidlservice-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.cneaidlservice.internal.api-V1-ndk.so	50	ldaprb:9 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.cneaidlservice.internal.server-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.cneaidlservice.internal.server-V2-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.connectionfactory-V1-ndk.so	31	ldaprb:7 ldaddal:12 ldapr:5 ldadd:7 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.dataactivity-V1-ndk.so	37	ldaprb:6 ldaddal:14 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.dynamicddsaidlservice-V1-ndk.so	70	ldaprb:10 ldaddal:28 ldapr:13 ldadd:19 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.flowaidlservice-V1-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.ka-V1-ndk.so	37	ldaprb:6 ldaddal:14 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.iwlandata-V1-ndk.so	48	ldaprb:6 ldaddal:20 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.lceaidlservice-V1-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.data.qmiaidlservice-V1-ndk.so	50	ldaprb:9 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V1-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V11-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V10-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V13-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V12-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V14-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V2-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V17-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V4-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V16-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V15-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V3-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V5-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V7-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V6-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V8-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.display.config-V9-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.dpmaidlservice-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.minkipcbinder-V1-ndk.so	37	ldaprb:4 ldaddal:16 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.mwqemadapteraidlservice-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.qacs.ambientdatacapture-V1-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.qseecom-V1-ndk.so	38	ldaprb:4 ldaddal:17 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.qteeconnector-V1-ndk.so	62	ldaprb:8 ldaddal:27 ldapr:11 ldadd:16 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.trustedui-V1-ndk.so	60	ldaprb:8 ldaddal:25 ldapr:11 ldadd:16 
+/mnt/gb/system_ext_a/lib64/vendor.qti.hardware.vpp-V1-ndk.so	48	ldaprb:6 ldaddal:20 ldapr:9 ldadd:13 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.callcapabilityaidlservice-V1-ndk.so	36	ldaprb:4 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.configaidlservice-V1-ndk.so	35	ldaprb:4 ldaddal:14 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.connectionaidlservice-V1-ndk.so	38	ldaprb:6 ldaddal:15 ldapr:7 ldadd:10 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.datachannelservice-V3-ndk.so	90	ldaprb:18 ldaddal:35 ldapr:15 ldadd:22 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.datachannelservice-V1-ndk.so	90	ldaprb:18 ldaddal:35 ldapr:15 ldadd:22 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.datachannelservice-V2-ndk.so	90	ldaprb:18 ldaddal:35 ldapr:15 ldadd:22 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.factoryaidlservice-V1-ndk.so	42	ldaprb:17 ldaddal:13 ldapr:5 ldadd:7 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.imscmaidlservice-V1-ndk.so	61	ldaprb:8 ldaddal:26 ldapr:11 ldadd:16 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.rcssipaidlservice-V1-ndk.so	63	ldaprb:12 ldaddal:24 ldapr:11 ldadd:16 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.rcsuceaidlservice-V1-ndk.so	61	ldaprb:12 ldaddal:22 ldapr:11 ldadd:16 
+/mnt/gb/system_ext_a/lib64/vendor.qti.ims.uceaidlservice-V1-ndk.so	83	ldaprb:12 ldaddal:34 ldapr:15 ldadd:22 
+/mnt/gb/system_ext_a/lib64/vendor.qti.qspmhal-V1-ndk.so	24	ldaprb:2 ldaddal:10 ldapr:5 ldadd:7 
+/mnt/gb/system_ext_a/lib64/vendor.qti.latencyaidlservice-V1-ndk.so	47	ldaprb:6 ldaddal:19 ldapr:9 ldadd:13 

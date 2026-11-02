@@ -1,0 +1,5 @@
+/mnt/emu/system/system/lib64/libcrypto.so	2	ldapurh:2 
+/mnt/emu/system/system/lib64/libdng_sdk.so	1	ldapur:1 
+/mnt/emu/system/system/lib64/libinputflinger.so	1	ldumax:1 
+/mnt/emu/system/system/lib64/libjxl.so	19	ldapursh:8 ldsetlh:2 ldeorlb:1 ldapur:1 ldapursb:5 lduminab:1 ldumaxa:1 
+/mnt/emu/vendor/lib64/libcrypto.so	2	ldapurh:2 

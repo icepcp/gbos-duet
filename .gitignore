@@ -1,0 +1,20 @@
+# Proprietary Google/Dell/HP images and anything extracted or rebuilt from them.
+# Never commit these: size aside, they are not ours to redistribute. Scripts re-download them.
+/dl/
+/build/
+
+# Third-party repos used as references (each has its own .git) - see README for links.
+/src/
+
+# AOSP public test keys - fetched by scripts/graft.sh
+/keys/
+
+# Disk images / archives that might land anywhere
+*.raw
+*.img
+*.zip
+*.apk
+*.apex
+*.ppm
+*.png
+__pycache__/
